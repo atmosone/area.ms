@@ -1,2 +1,2 @@
-# plant-ms
-IIoT Plant MicroService
+# area.ms
+IIoT Area MicroService
